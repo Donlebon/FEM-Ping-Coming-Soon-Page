@@ -1,5 +1,7 @@
 # Frontend Mentor - Ping coming soon page
 
+https://donlebon.github.io/FEM-Ping-Coming-Soon-Page/
+
 ![Design preview for the Ping coming soon page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
